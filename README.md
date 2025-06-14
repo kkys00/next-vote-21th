@@ -2,7 +2,7 @@
 
 ## CEOS 21기 이어드림 투표 페이지 - 🗳️투표드림
 
-## 배포
+## 배포 https://next-vote-21th-omega.vercel.app/
 
 1. 프론트엔드
    1. 김영서(@kkys00)
